@@ -4,7 +4,7 @@ A simple Java code snippet to reproduce 500 error of Google Spreadsheets API v3:
 
 ## How to run
 
-- Update `config.properties` with your app/Google account credentials
+- Update `config.properties` with your Google app/account credentials
 
 ```
 $ ./gradlew run
