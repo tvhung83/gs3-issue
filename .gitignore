@@ -1,0 +1,16 @@
+*~
+/pkg/
+/tmp/
+*.gemspec
+.gradle/
+*/classpath/
+build/
+out*/
+.idea
+*.iml
+/.settings/
+/.metadata/
+.classpath
+.project
+private-config.properties
+**/.meghanada/
